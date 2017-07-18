@@ -125,6 +125,7 @@ background-image: url('../img/header_home2.jpg');
     font-size: 25px;
     margin: -40px 12px;
     display: inline;
+    line-height: 60px;
     float: right;
 }
 .clearfix {
